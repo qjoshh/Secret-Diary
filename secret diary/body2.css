@@ -1,0 +1,10 @@
+ 	html{
+		background: url("img/rain_drops_6-wallpaper-1366x768.jpg");
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+	}
+	body{
+		background: none;
+		color: white;
+	}

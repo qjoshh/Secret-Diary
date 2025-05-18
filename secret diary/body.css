@@ -1,0 +1,10 @@
+ 	html{
+		background: #021B26;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+	}
+	body{
+		background: none;
+		color: white;
+	}
